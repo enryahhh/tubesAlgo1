@@ -1,0 +1,15 @@
+[Project]
+FileName=D:\KULIAH\ALGO\TubesLaundry.dp
+Name=TubesLaundry
+MainUnit=D:\KULIAH\ALGO\UTubesLaundry.pas
+UnitCount=1
+ResFiles=D:\KULIAH\ALGO\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=D:\Dev-Pas\Icons\Edit.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=D:\KULIAH\ALGO\UTubesLaundry.pas
+FileTime=1346056829
